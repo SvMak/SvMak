@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SviatMak)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/112362229092562992)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SviatMak)](https://x.com/SviatMak)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/112362229092562992)](https://mastodon.social/@SviatMak)
