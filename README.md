@@ -26,3 +26,7 @@ Here are some ideas to get you started:
   ____) \ V /| |  | | (_| |   < 
  |_____/ \_/ |_|  |_|\__,_|_|\_\
 ```
+
+### Most Used Languages
+
+![Sviatoslav most used languages](https://sviat-mak.vercel.app/api/github)
