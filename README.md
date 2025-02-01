@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ### Most Used Languages
 
-![Sviatoslav most used languages](https://sviat-mak.vercel.app/api/github)
+![SvMak most used languages](https://sviat-mak.vercel.app/api/github)
