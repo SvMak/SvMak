@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![X (formerly Twitter) Follow](./assets/img/X.svg)](https://x.com/SviatMak)
-[![Bluesky Follow](./assets/img/Bluesky.svg)](https://bsky.app/profile/sviatmak.bsky.social)
-[![Mastodon Follow](./assets/img/Mastodon.svg)](https://mastodon.social/@SviatMak)
-[![Linkedin Follow](./assets/img/Linkedin.svg)](https://www.linkedin.com/in/sviatoslav-makhynko-7ba465234/)
-[![Website](./assets/img/Website.svg)](https://sviat-mak.vercel.app/)
+<a href="https://x.com/SviatMak" target="_blank" rel="noopener"><img src="./assets/img/X.svg" alt="X (formerly Twitter) Follow" /></a>
+<a href="https://bsky.app/profile/sviatmak.bsky.social" target="_blank" rel="noopener"><img src="./assets/img/Bluesky.svg" alt="Bluesky Follow" /></a>
+<a href="https://mastodon.social/@SviatMak" target="_blank" rel="noopener"><img src="./assets/img/Mastodon.svg" alt="Mastodon Follow" /></a>
+<a href="https://www.linkedin.com/in/sviatoslav-makhynko-7ba465234/" target="_blank" rel="noopener"><img src="./assets/img/Linkedin.svg" alt="Linkedin Follow" /></a>
+<a href="https://sviat-mak.vercel.app/" target="_blank" rel="noopener"><img src="./assets/img/Website.svg" alt="Website" /></a>
 
 ```bash
    _____      __  __       _    
