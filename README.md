@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SviatMak)](https://x.com/SviatMak)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/112362229092562992)](https://mastodon.social/@SviatMak)
+[![X (formerly Twitter) Follow](./assets/img/X.svg)](https://x.com/SviatMak)
+[![Bluesky Follow](./assets/img/Bluesky.svg)](https://bsky.app/profile/sviatmak.bsky.social)
+[![Mastodon Follow](./assets/img/Mastodon.svg)](https://mastodon.social/@SviatMak)
+[![Linkedin Follow](./assets/img/Linkedin.svg)](https://www.linkedin.com/in/sviatoslav-makhynko-7ba465234/)
+[![Website](./assets/img/Website.svg)](https://sviat-mak.vercel.app/)
 
 ```bash
    _____      __  __       _    
