@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ### Most Used Languages
 
-![SvMak most used languages](https://sviat-mak.vercel.app/api/github)
+![SvMak most used languages](https://gh-profile-rosy.vercel.app/api/github)
