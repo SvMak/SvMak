@@ -30,8 +30,6 @@ Here are some ideas to get you started:
  |_____/ \_/ |_|  |_|\__,_|_|\_\
 ```
 
-<!--
 ### Most Used Languages
 
 ![SvMak most used languages](https://gh-profile-rosy.vercel.app/api/github)
--->
