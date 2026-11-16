@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://x.com/SviatMak" target="_blank" rel="noopener"><img src="./assets/img/X.svg" alt="X (formerly Twitter) Follow" /></a>
-<a href="https://bsky.app/profile/sviatmak.bsky.social" target="_blank" rel="noopener"><img src="./assets/img/Bluesky.svg" alt="Bluesky Follow" /></a>
-<a href="https://mastodon.social/@SviatMak" target="_blank" rel="noopener"><img src="./assets/img/Mastodon.svg" alt="Mastodon Follow" /></a>
-<a href="https://www.linkedin.com/in/sviatoslav-makhynko-7ba465234/" target="_blank" rel="noopener"><img src="./assets/img/Linkedin.svg" alt="Linkedin Follow" /></a>
-
 ```bash
    _____      __  __       _    
   / ____|    |  \/  |     | |   
