@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <a href="https://bsky.app/profile/sviatmak.bsky.social" target="_blank" rel="noopener"><img src="./assets/img/Bluesky.svg" alt="Bluesky Follow" /></a>
 <a href="https://mastodon.social/@SviatMak" target="_blank" rel="noopener"><img src="./assets/img/Mastodon.svg" alt="Mastodon Follow" /></a>
 <a href="https://www.linkedin.com/in/sviatoslav-makhynko-7ba465234/" target="_blank" rel="noopener"><img src="./assets/img/Linkedin.svg" alt="Linkedin Follow" /></a>
-<a href="https://sviat-mak.vercel.app/" target="_blank" rel="noopener"><img src="./assets/img/Website.svg" alt="Website" /></a>
 
 ```bash
    _____      __  __       _    
